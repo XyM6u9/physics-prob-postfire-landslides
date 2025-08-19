@@ -6,10 +6,10 @@ Core pieces:
   RFroot.py — generates random fields of post-fire root cohesion
   Main_SF_para_prob_eff.m — MATLAB model for shallow-landslide susceptibility (factor of safety and failure probability)
 
-Inputs
+Inputs:
   Place required geospatial inputs in RasterT_Palisad4_SpatialJoin6_TableToExcel.xlsx derive from ArcGIS Pro
 
-Quick start
+Quick start:
   1) Generate hydraulic conductivity random fields
     RFHydrorealization.py produces ensembles of post-fire hydraulic conductivity (or multipliers) over the study grid.
   2) Generate root cohesion random fields
@@ -17,5 +17,5 @@ Quick start
 3) Run the physical model in MATLAB
   Open Main_SF_para_prob_eff.m, and set the paths.
 
-Outputs
+Outputs:
   Fs maps per time step and ensemble member
