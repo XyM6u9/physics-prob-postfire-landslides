@@ -1,4 +1,4 @@
-Postfire Landslide Uncertainty
+Codes for Probabilistic Post-Fire Shallow Landslide Susceptibility Modeling Considering Spatiotemporal Land Cover Uncertainties: A Case of January 2025 Palisades Wildfire in Southern California
 
 Code and workflows for probabilistic, physics-based modeling of post-fire shallow-landslide susceptibility and its uncertainty.
 Core pieces:
