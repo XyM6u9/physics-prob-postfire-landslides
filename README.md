@@ -1,8 +1,10 @@
+Update for Revised Paper
+
 The revised paper includes additional modeling components for Topographic Wetness Index (TWI) and Soil Water Repellency (SWR). As a result, the main simulation script has been updated. 
 
 Please use Main_SF_para_prob_eff_revisedpaper.m instead of Main_SF_para_prob_eff.m to reproduce the results presented in the revised manuscript.
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+—————————————
 
 Codes for Probabilistic Post-Fire Shallow Landslide Susceptibility Modeling Considering Spatiotemporal Land Cover Uncertainties: A Case of January 2025 Palisades Wildfire in Southern California
 
